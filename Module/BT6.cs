@@ -2,7 +2,7 @@ using System;
 
 namespace BTC1.Module
 {
-    public class BT4
+    public class BT6
     {
         static int getValidInput(string inputMessage = "Input n")
         {
@@ -26,11 +26,11 @@ namespace BTC1.Module
         public static float recursiveFn(int n)
         {
             if (n == 1) return (float) 1/2;
-            return (float) 1/(2*n) + recursiveFn(n - 1);
+            return (float) 1/(n*(n+1)) + recursiveFn(n - 1);
         }
         public static void Run()
         {
-            Console.WriteLine("BT4:");
+            Console.WriteLine("BT6:");
             int input = getValidInput();
             float output = recursiveFn(input);
             printOutput(output);

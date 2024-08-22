@@ -2,14 +2,14 @@ using System;
 
 namespace BTC1.Module
 {
-    class BT5
+    public class BT5
     {
-        static int getValidInput()
+        static int getValidInput(string inputMessage = "Input n")
         {
-            Console.Write("Input: ");
+            Console.Write(inputMessage + ": ");
             string input = Console.ReadLine();
             while (!checkValidInput(input)) {
-                Console.Write("Input again: ");
+                Console.Write(inputMessage + " again: ");
                 input = Console.ReadLine();
             }
             return int.Parse(input);
@@ -23,16 +23,16 @@ namespace BTC1.Module
             int n;
             return int.TryParse(input, out n) && n > 0;
         }
-        static float sumRecursive(int n)
+        public static float recursiveFn(int n)
         {
             if (n == 0) return 1;
-            else return (float) 1/(2*n + 1) + sumRecursive(n - 1);
+            return (float) 1/(2*n + 1) + recursiveFn(n - 1);
         }
         public static void Run()
         {
             Console.WriteLine("BT5:");
             int input = getValidInput();
-            float output = sumRecursive(input);
+            float output = recursiveFn(input);
             printOutput(output);
         }
     }

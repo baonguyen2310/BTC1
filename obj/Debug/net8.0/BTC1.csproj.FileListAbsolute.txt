@@ -1,12 +1,12 @@
+/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.AssemblyInfoInputs.cache
+/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.AssemblyInfo.cs
+/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.csproj.CoreCompileInputs.cache
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/bin/Debug/net8.0/BTC1
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/bin/Debug/net8.0/BTC1.deps.json
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/bin/Debug/net8.0/BTC1.runtimeconfig.json
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/bin/Debug/net8.0/BTC1.dll
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/bin/Debug/net8.0/BTC1.pdb
-/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.GeneratedMSBuildEditorConfig.editorconfig
-/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.AssemblyInfoInputs.cache
-/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.AssemblyInfo.cs
-/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.csproj.CoreCompileInputs.cache
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.dll
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/refint/BTC1.dll
 /Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/obj/Debug/net8.0/BTC1.pdb

@@ -1,8 +1,9 @@
 using System;
+using System.Collections.Generic;
 
 namespace BTC1.Module
 {
-    public class BT4
+    public class BT31
     {
         static int getValidInput(string inputMessage = "Input n")
         {
@@ -14,25 +15,28 @@ namespace BTC1.Module
             }
             return int.Parse(input);
         }
-        public static void printOutput(float output)
+        public static void printOutput(bool output)
         {
-            Console.WriteLine("Output: " + output);
+            if (output) Console.WriteLine("n là số nguyên tố");
+            else Console.WriteLine("n không là số nguyên tố");
         }
         static bool checkValidInput(string input)
         {
             int n;
             return int.TryParse(input, out n) && n > 0;
         }
-        public static float recursiveFn(int n)
+        public static bool recursiveFn(int n, int current)
         {
-            if (n == 1) return (float) 1/2;
-            return (float) 1/(2*n) + recursiveFn(n - 1);
+            if (current > Math.Sqrt(n)) return true;
+            if (n % current == 0) return false;
+            return recursiveFn(n, current + 1);
         }
         public static void Run()
         {
-            Console.WriteLine("BT4:");
+            Console.WriteLine("BT31:");
             int input = getValidInput();
-            float output = recursiveFn(input);
+            bool output = recursiveFn(input, 2);
+            if (input == 1) output = false;
             printOutput(output);
         }
     }
