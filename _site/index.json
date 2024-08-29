@@ -1,0 +1,252 @@
+{
+  "README.html": {
+    "href": "README.html",
+    "title": "BTC1 | mysite",
+    "keywords": "BTC1"
+  },
+  "api/BTC1.Module.BT1.html": {
+    "href": "api/BTC1.Module.BT1.html",
+    "title": "Class BT1 | mysite",
+    "keywords": "Class BT1 Namespace BTC1.Module Assembly BTC1.dll public class BT1 Inheritance object BT1 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() getValidInput(string) public static int getValidInput(string inputMessage = \"Input n\") Parameters inputMessage string Returns int printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int) public static int recursiveFn(int n) Parameters n int Returns int"
+  },
+  "api/BTC1.Module.BT10.html": {
+    "href": "api/BTC1.Module.BT10.html",
+    "title": "Class BT10 | mysite",
+    "keywords": "Class BT10 Namespace BTC1.Module Assembly BTC1.dll public class BT10 Inheritance object BT10 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int x, int n) Parameters x int n int Returns int"
+  },
+  "api/BTC1.Module.BT10V2.html": {
+    "href": "api/BTC1.Module.BT10V2.html",
+    "title": "Class BT10V2 | mysite",
+    "keywords": "Class BT10V2 Namespace BTC1.Module Assembly BTC1.dll public class BT10V2 Inheritance object BT10V2 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int x, int n) Parameters x int n int Returns int"
+  },
+  "api/BTC1.Module.BT11.html": {
+    "href": "api/BTC1.Module.BT11.html",
+    "title": "Class BT11 | mysite",
+    "keywords": "Class BT11 Namespace BTC1.Module Assembly BTC1.dll public class BT11 Inheritance object BT11 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int) public static int recursiveFn(int n) Parameters n int Returns int"
+  },
+  "api/BTC1.Module.BT12.html": {
+    "href": "api/BTC1.Module.BT12.html",
+    "title": "Class BT12 | mysite",
+    "keywords": "Class BT12 Namespace BTC1.Module Assembly BTC1.dll public class BT12 Inheritance object BT12 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int x, int n) Parameters x int n int Returns int"
+  },
+  "api/BTC1.Module.BT13.html": {
+    "href": "api/BTC1.Module.BT13.html",
+    "title": "Class BT13 | mysite",
+    "keywords": "Class BT13 Namespace BTC1.Module Assembly BTC1.dll public class BT13 Inheritance object BT13 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int x, int n) Parameters x int n int Returns int"
+  },
+  "api/BTC1.Module.BT14.html": {
+    "href": "api/BTC1.Module.BT14.html",
+    "title": "Class BT14 | mysite",
+    "keywords": "Class BT14 Namespace BTC1.Module Assembly BTC1.dll public class BT14 Inheritance object BT14 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int x, int n) Parameters x int n int Returns int"
+  },
+  "api/BTC1.Module.BT15.html": {
+    "href": "api/BTC1.Module.BT15.html",
+    "title": "Class BT15 | mysite",
+    "keywords": "Class BT15 Namespace BTC1.Module Assembly BTC1.dll public class BT15 Inheritance object BT15 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT16.html": {
+    "href": "api/BTC1.Module.BT16.html",
+    "title": "Class BT16 | mysite",
+    "keywords": "Class BT16 Namespace BTC1.Module Assembly BTC1.dll public class BT16 Inheritance object BT16 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int, int) public static float recursiveFn(int x, int n) Parameters x int n int Returns float"
+  },
+  "api/BTC1.Module.BT17.html": {
+    "href": "api/BTC1.Module.BT17.html",
+    "title": "Class BT17 | mysite",
+    "keywords": "Class BT17 Namespace BTC1.Module Assembly BTC1.dll public class BT17 Inheritance object BT17 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int, int) public static float recursiveFn(int x, int n) Parameters x int n int Returns float"
+  },
+  "api/BTC1.Module.BT18.html": {
+    "href": "api/BTC1.Module.BT18.html",
+    "title": "Class BT18 | mysite",
+    "keywords": "Class BT18 Namespace BTC1.Module Assembly BTC1.dll public class BT18 Inheritance object BT18 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int, int) public static float recursiveFn(int x, int n) Parameters x int n int Returns float"
+  },
+  "api/BTC1.Module.BT19.html": {
+    "href": "api/BTC1.Module.BT19.html",
+    "title": "Class BT19 | mysite",
+    "keywords": "Class BT19 Namespace BTC1.Module Assembly BTC1.dll public class BT19 Inheritance object BT19 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int, int) public static float recursiveFn(int x, int n) Parameters x int n int Returns float"
+  },
+  "api/BTC1.Module.BT2.html": {
+    "href": "api/BTC1.Module.BT2.html",
+    "title": "Class BT2 | mysite",
+    "keywords": "Class BT2 Namespace BTC1.Module Assembly BTC1.dll public class BT2 Inheritance object BT2 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int) public static int recursiveFn(int n) Parameters n int Returns int"
+  },
+  "api/BTC1.Module.BT20.html": {
+    "href": "api/BTC1.Module.BT20.html",
+    "title": "Class BT20 | mysite",
+    "keywords": "Class BT20 Namespace BTC1.Module Assembly BTC1.dll public class BT20 Inheritance object BT20 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int, List<int>) public static void printOutput(int input, List<int> factors) Parameters input int factors List<int> recursiveFn(int, int, List<int>) public static void recursiveFn(int n, int current, List<int> factors) Parameters n int current int factors List<int>"
+  },
+  "api/BTC1.Module.BT21.html": {
+    "href": "api/BTC1.Module.BT21.html",
+    "title": "Class BT21 | mysite",
+    "keywords": "Class BT21 Namespace BTC1.Module Assembly BTC1.dll public class BT21 Inheritance object BT21 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT22.html": {
+    "href": "api/BTC1.Module.BT22.html",
+    "title": "Class BT22 | mysite",
+    "keywords": "Class BT22 Namespace BTC1.Module Assembly BTC1.dll public class BT22 Inheritance object BT22 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT23.html": {
+    "href": "api/BTC1.Module.BT23.html",
+    "title": "Class BT23 | mysite",
+    "keywords": "Class BT23 Namespace BTC1.Module Assembly BTC1.dll public class BT23 Inheritance object BT23 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT24.html": {
+    "href": "api/BTC1.Module.BT24.html",
+    "title": "Class BT24 | mysite",
+    "keywords": "Class BT24 Namespace BTC1.Module Assembly BTC1.dll public class BT24 Inheritance object BT24 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(List<int>) public static void printOutput(List<int> factors) Parameters factors List<int> recursiveFn(int, int, List<int>) public static void recursiveFn(int n, int current, List<int> factors) Parameters n int current int factors List<int>"
+  },
+  "api/BTC1.Module.BT25.html": {
+    "href": "api/BTC1.Module.BT25.html",
+    "title": "Class BT25 | mysite",
+    "keywords": "Class BT25 Namespace BTC1.Module Assembly BTC1.dll public class BT25 Inheritance object BT25 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT26.html": {
+    "href": "api/BTC1.Module.BT26.html",
+    "title": "Class BT26 | mysite",
+    "keywords": "Class BT26 Namespace BTC1.Module Assembly BTC1.dll public class BT26 Inheritance object BT26 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT27.html": {
+    "href": "api/BTC1.Module.BT27.html",
+    "title": "Class BT27 | mysite",
+    "keywords": "Class BT27 Namespace BTC1.Module Assembly BTC1.dll public class BT27 Inheritance object BT27 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT28.html": {
+    "href": "api/BTC1.Module.BT28.html",
+    "title": "Class BT28 | mysite",
+    "keywords": "Class BT28 Namespace BTC1.Module Assembly BTC1.dll public class BT28 Inheritance object BT28 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int) public static int recursiveFn(int n, int current) Parameters n int current int Returns int"
+  },
+  "api/BTC1.Module.BT29.html": {
+    "href": "api/BTC1.Module.BT29.html",
+    "title": "Class BT29 | mysite",
+    "keywords": "Class BT29 Namespace BTC1.Module Assembly BTC1.dll public class BT29 Inheritance object BT29 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int, int, ref int) public static void recursiveFn(int n, int current, ref int output) Parameters n int current int output int"
+  },
+  "api/BTC1.Module.BT3.html": {
+    "href": "api/BTC1.Module.BT3.html",
+    "title": "Class BT3 | mysite",
+    "keywords": "Class BT3 Namespace BTC1.Module Assembly BTC1.dll public class BT3 Inheritance object BT3 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT30.html": {
+    "href": "api/BTC1.Module.BT30.html",
+    "title": "Class BT30 | mysite",
+    "keywords": "Class BT30 Namespace BTC1.Module Assembly BTC1.dll public class BT30 Inheritance object BT30 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(bool) public static void printOutput(bool output) Parameters output bool recursiveFn(int, int, int) public static bool recursiveFn(int n, int current, int sum) Parameters n int current int sum int Returns bool"
+  },
+  "api/BTC1.Module.BT31.html": {
+    "href": "api/BTC1.Module.BT31.html",
+    "title": "Class BT31 | mysite",
+    "keywords": "Class BT31 Namespace BTC1.Module Assembly BTC1.dll public class BT31 Inheritance object BT31 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(bool) public static void printOutput(bool output) Parameters output bool recursiveFn(int, int) public static bool recursiveFn(int n, int current) Parameters n int current int Returns bool"
+  },
+  "api/BTC1.Module.BT32.html": {
+    "href": "api/BTC1.Module.BT32.html",
+    "title": "Class BT32 | mysite",
+    "keywords": "Class BT32 Namespace BTC1.Module Assembly BTC1.dll public class BT32 Inheritance object BT32 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(bool) public static void printOutput(bool output) Parameters output bool recursiveFn(int, int) public static bool recursiveFn(int n, int current) Parameters n int current int Returns bool"
+  },
+  "api/BTC1.Module.BT33.html": {
+    "href": "api/BTC1.Module.BT33.html",
+    "title": "Class BT33 | mysite",
+    "keywords": "Class BT33 Namespace BTC1.Module Assembly BTC1.dll public class BT33 Inheritance object BT33 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT34.html": {
+    "href": "api/BTC1.Module.BT34.html",
+    "title": "Class BT34 | mysite",
+    "keywords": "Class BT34 Namespace BTC1.Module Assembly BTC1.dll public class BT34 Inheritance object BT34 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT35.html": {
+    "href": "api/BTC1.Module.BT35.html",
+    "title": "Class BT35 | mysite",
+    "keywords": "Class BT35 Namespace BTC1.Module Assembly BTC1.dll public class BT35 Inheritance object BT35 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int, int) public static double recursiveFn(int n, int curr) Parameters n int curr int Returns double"
+  },
+  "api/BTC1.Module.BT36.html": {
+    "href": "api/BTC1.Module.BT36.html",
+    "title": "Class BT36 | mysite",
+    "keywords": "Class BT36 Namespace BTC1.Module Assembly BTC1.dll public class BT36 Inheritance object BT36 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT37.html": {
+    "href": "api/BTC1.Module.BT37.html",
+    "title": "Class BT37 | mysite",
+    "keywords": "Class BT37 Namespace BTC1.Module Assembly BTC1.dll public class BT37 Inheritance object BT37 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT38.html": {
+    "href": "api/BTC1.Module.BT38.html",
+    "title": "Class BT38 | mysite",
+    "keywords": "Class BT38 Namespace BTC1.Module Assembly BTC1.dll public class BT38 Inheritance object BT38 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT39.html": {
+    "href": "api/BTC1.Module.BT39.html",
+    "title": "Class BT39 | mysite",
+    "keywords": "Class BT39 Namespace BTC1.Module Assembly BTC1.dll public class BT39 Inheritance object BT39 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT4.html": {
+    "href": "api/BTC1.Module.BT4.html",
+    "title": "Class BT4 | mysite",
+    "keywords": "Class BT4 Namespace BTC1.Module Assembly BTC1.dll public class BT4 Inheritance object BT4 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT40.html": {
+    "href": "api/BTC1.Module.BT40.html",
+    "title": "Class BT40 | mysite",
+    "keywords": "Class BT40 Namespace BTC1.Module Assembly BTC1.dll public class BT40 Inheritance object BT40 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int, int) public static double recursiveFn(int x, int n) Parameters x int n int Returns double"
+  },
+  "api/BTC1.Module.BT41.html": {
+    "href": "api/BTC1.Module.BT41.html",
+    "title": "Class BT41 | mysite",
+    "keywords": "Class BT41 Namespace BTC1.Module Assembly BTC1.dll public class BT41 Inheritance object BT41 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(double) public static void printOutput(double output) Parameters output double recursiveFn(int) public static double recursiveFn(int n) Parameters n int Returns double"
+  },
+  "api/BTC1.Module.BT5.html": {
+    "href": "api/BTC1.Module.BT5.html",
+    "title": "Class BT5 | mysite",
+    "keywords": "Class BT5 Namespace BTC1.Module Assembly BTC1.dll public class BT5 Inheritance object BT5 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT6.html": {
+    "href": "api/BTC1.Module.BT6.html",
+    "title": "Class BT6 | mysite",
+    "keywords": "Class BT6 Namespace BTC1.Module Assembly BTC1.dll public class BT6 Inheritance object BT6 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT7.html": {
+    "href": "api/BTC1.Module.BT7.html",
+    "title": "Class BT7 | mysite",
+    "keywords": "Class BT7 Namespace BTC1.Module Assembly BTC1.dll public class BT7 Inheritance object BT7 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT8.html": {
+    "href": "api/BTC1.Module.BT8.html",
+    "title": "Class BT8 | mysite",
+    "keywords": "Class BT8 Namespace BTC1.Module Assembly BTC1.dll public class BT8 Inheritance object BT8 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(float) public static void printOutput(float output) Parameters output float recursiveFn(int) public static float recursiveFn(int n) Parameters n int Returns float"
+  },
+  "api/BTC1.Module.BT9.html": {
+    "href": "api/BTC1.Module.BT9.html",
+    "title": "Class BT9 | mysite",
+    "keywords": "Class BT9 Namespace BTC1.Module Assembly BTC1.dll public class BT9 Inheritance object BT9 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Run() public static void Run() printOutput(int) public static void printOutput(int output) Parameters output int recursiveFn(int) public static int recursiveFn(int n) Parameters n int Returns int"
+  },
+  "api/BTC1.Module.html": {
+    "href": "api/BTC1.Module.html",
+    "title": "Namespace BTC1.Module | mysite",
+    "keywords": "Namespace BTC1.Module Classes BT1 BT10 BT10V2 BT11 BT12 BT13 BT14 BT15 BT16 BT17 BT18 BT19 BT2 BT20 BT21 BT22 BT23 BT24 BT25 BT26 BT27 BT28 BT29 BT3 BT30 BT31 BT32 BT33 BT34 BT35 BT36 BT37 BT38 BT39 BT4 BT40 BT41 BT5 BT6 BT7 BT8 BT9"
+  },
+  "api/tests.UnitTest1.html": {
+    "href": "api/tests.UnitTest1.html",
+    "title": "Class UnitTest1 | mysite",
+    "keywords": "Class UnitTest1 Namespace tests Assembly tests.dll public class UnitTest1 Inheritance object UnitTest1 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Test_BT1(int, int) [Theory] [InlineData(new object[] { 1, 1 })] [InlineData(new object[] { 2, 3 })] [InlineData(new object[] { 3, 6 })] public void Test_BT1(int n, int output) Parameters n int output int Test_BT10(int, int, int) [Theory] [InlineData(new object[] { 3, 1, 3 })] [InlineData(new object[] { 3, 2, 9 })] [InlineData(new object[] { 3, 3, 27 })] public void Test_BT10(int x, int n, int output) Parameters x int n int output int Test_BT11(int, int) [Theory] [InlineData(new object[] { 1, 1 })] [InlineData(new object[] { 2, 3 })] [InlineData(new object[] { 3, 9 })] public void Test_BT11(int n, int output) Parameters n int output int Test_BT12(int, int, int) [Theory] [InlineData(new object[] { 3, 1, 3 })] [InlineData(new object[] { 3, 2, 12 })] [InlineData(new object[] { 3, 3, 39 })] public void Test_BT12(int x, int n, int output) Parameters x int n int output int Test_BT13(int, int, int) [Theory] [InlineData(new object[] { 3, 1, 9 })] [InlineData(new object[] { 3, 2, 90 })] [InlineData(new object[] { 3, 3, 819 })] public void Test_BT13(int x, int n, int output) Parameters x int n int output int Test_BT14(int, int, int) [Theory] [InlineData(new object[] { 3, 1, 30 })] [InlineData(new object[] { 3, 2, 273 })] [InlineData(new object[] { 3, 3, 2460 })] public void Test_BT14(int x, int n, int output) Parameters x int n int output int Test_BT15(int, float, float) [Theory] [InlineData(new object[] { 1, 1 })] [InlineData(new object[] { 2, 1.333333 })] [InlineData(new object[] { 3, 1.5 })] public void Test_BT15(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT16(int, int, float, float) [Theory] [InlineData(new object[] { 3, 1, 3 })] [InlineData(new object[] { 3, 2, 6 })] [InlineData(new object[] { 3, 3, 10.5 })] public void Test_BT16(int x, int n, float output, float epsilon = 0.001) Parameters x int n int output float epsilon float Test_BT17(int, int, float, float) [Theory] [InlineData(new object[] { 3, 1, 3 })] [InlineData(new object[] { 3, 2, 7.5 })] [InlineData(new object[] { 3, 3, 12 })] public void Test_BT17(int x, int n, float output, float epsilon = 0.001) Parameters x int n int output float epsilon float Test_BT18(int, int, float, float) [Theory] [InlineData(new object[] { 3, 1, 5.5 })] [InlineData(new object[] { 3, 2, 8.875 })] [InlineData(new object[] { 3, 3, 9.8875 })] public void Test_BT18(int x, int n, float output, float epsilon = 0.001) Parameters x int n int output float epsilon float Test_BT19(int, int, float, float) [Theory] [InlineData(new object[] { 3, 1, 8.5 })] [InlineData(new object[] { 3, 2, 10.525 })] [InlineData(new object[] { 3, 3, 10.958929 })] public void Test_BT19(int x, int n, float output, float epsilon = 0.001) Parameters x int n int output float epsilon float Test_BT2(int, int) [Theory] [InlineData(new object[] { 1, 1 })] [InlineData(new object[] { 2, 5 })] [InlineData(new object[] { 3, 14 })] public void Test_BT2(int n, int output) Parameters n int output int Test_BT3(int, float, float) [Theory] [InlineData(new object[] { 1, 1 })] [InlineData(new object[] { 2, 1.5 })] [InlineData(new object[] { 3, 1.833333 })] public void Test_BT3(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT33(int, double, double) [Theory] [InlineData(new object[] { 2, 1.8477590650225735 })] public void Test_BT33(int n, double output, double epsilon = 0.001) Parameters n int output double epsilon double Test_BT35(int, double, double) [Theory] [InlineData(new object[] { 2, 1.5537739740300374 })] public void Test_BT35(int n, double output, double epsilon = 0.001) Parameters n int output double epsilon double Test_BT37(int, double, double) [Theory] [InlineData(new object[] { 2, 1.4142135623730951 })] [InlineData(new object[] { 3, 1.6404051104084314 })] public void Test_BT37(int n, double output, double epsilon = 0.001) Parameters n int output double epsilon double Test_BT4(int, float, float) [Theory] [InlineData(new object[] { 1, 0.5 })] [InlineData(new object[] { 2, 0.75 })] [InlineData(new object[] { 3, 0.916667 })] public void Test_BT4(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT5(int, float, float) [Theory] [InlineData(new object[] { 1, 1.333333 })] [InlineData(new object[] { 2, 1.533333 })] [InlineData(new object[] { 3, 1.67619 })] public void Test_BT5(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT6(int, float, float) [Theory] [InlineData(new object[] { 1, 0.5 })] [InlineData(new object[] { 2, 0.666667 })] [InlineData(new object[] { 3, 0.75 })] public void Test_BT6(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT7(int, float, float) [Theory] [InlineData(new object[] { 1, 0.5 })] [InlineData(new object[] { 2, 1.166667 })] [InlineData(new object[] { 3, 1.916667 })] public void Test_BT7(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT8(int, float, float) [Theory] [InlineData(new object[] { 1, 1.25 })] [InlineData(new object[] { 2, 2.083333 })] [InlineData(new object[] { 3, 2.958333 })] public void Test_BT8(int n, float output, float epsilon = 0.001) Parameters n int output float epsilon float Test_BT9(int, int) [Theory] [InlineData(new object[] { 1, 1 })] [InlineData(new object[] { 2, 2 })] [InlineData(new object[] { 3, 6 })] public void Test_BT9(int n, int output) Parameters n int output int"
+  },
+  "api/tests.html": {
+    "href": "api/tests.html",
+    "title": "Namespace tests | mysite",
+    "keywords": "Namespace tests Classes UnitTest1"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | mysite",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | mysite",
+    "keywords": "Introduction"
+  },
+  "docs/requirements.html": {
+    "href": "docs/requirements.html",
+    "title": "Tài Liệu Yêu Cầu | mysite",
+    "keywords": "Tài Liệu Yêu Cầu Giới Thiệu Tóm tắt ngắn gọn về dự án và mục đích của tài liệu. Tài Liệu Các Yêu Cầu Người Dùng Mô tả: Các yêu cầu chính từ góc độ người dùng. Tính năng chính: Các chức năng quan trọng mà hệ thống cần phải cung cấp. Kịch bản sử dụng: Các tình huống sử dụng chính của hệ thống. Yêu Cầu Kỹ Thuật Yêu cầu hệ thống: Cấu hình phần cứng và phần mềm. Tương tác với hệ thống khác: Các hệ thống hoặc dịch vụ bên ngoài mà hệ thống sẽ tương tác. Yêu Cầu Chất Lượng Hiệu suất: Các yêu cầu về tốc độ và hiệu suất. Bảo mật: Các yêu cầu về bảo mật và quyền truy cập. Kế Hoạch Kiểm Thử Chiến lược kiểm thử: Các loại kiểm thử sẽ được thực hiện. Tiêu chí chấp nhận: Các tiêu chí mà hệ thống phải đáp ứng để được chấp nhận. Thiết kế hệ thống"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | mysite",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

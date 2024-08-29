@@ -1,0 +1,424 @@
+### YamlMime:ManagedReference
+items:
+- uid: BTC1.Module.BT25
+  commentId: T:BTC1.Module.BT25
+  id: BT25
+  parent: BTC1.Module
+  children:
+  - BTC1.Module.BT25.Run
+  - BTC1.Module.BT25.printOutput(System.Int32)
+  - BTC1.Module.BT25.recursiveFn(System.Int32,System.Int32)
+  langs:
+  - csharp
+  - vb
+  name: BT25
+  nameWithType: BT25
+  fullName: BTC1.Module.BT25
+  type: Class
+  source:
+    remote:
+      path: src/Module/BT25.cs
+      branch: main
+      repo: git@github.com-baonguyen2310:baonguyen2310/BTC1.git
+    id: BT25
+    path: src/Module/BT25.cs
+    startLine: 5
+  assemblies:
+  - BTC1
+  namespace: BTC1.Module
+  syntax:
+    content: public class BT25
+    content.vb: Public Class BT25
+  inheritance:
+  - System.Object
+  inheritedMembers:
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.ToString
+- uid: BTC1.Module.BT25.printOutput(System.Int32)
+  commentId: M:BTC1.Module.BT25.printOutput(System.Int32)
+  id: printOutput(System.Int32)
+  parent: BTC1.Module.BT25
+  langs:
+  - csharp
+  - vb
+  name: printOutput(int)
+  nameWithType: BT25.printOutput(int)
+  fullName: BTC1.Module.BT25.printOutput(int)
+  type: Method
+  source:
+    remote:
+      path: src/Module/BT25.cs
+      branch: main
+      repo: git@github.com-baonguyen2310:baonguyen2310/BTC1.git
+    id: printOutput
+    path: src/Module/BT25.cs
+    startLine: 17
+  assemblies:
+  - BTC1
+  namespace: BTC1.Module
+  syntax:
+    content: public static void printOutput(int output)
+    parameters:
+    - id: output
+      type: System.Int32
+    content.vb: Public Shared Sub printOutput(output As Integer)
+  overload: BTC1.Module.BT25.printOutput*
+  nameWithType.vb: BT25.printOutput(Integer)
+  fullName.vb: BTC1.Module.BT25.printOutput(Integer)
+  name.vb: printOutput(Integer)
+- uid: BTC1.Module.BT25.recursiveFn(System.Int32,System.Int32)
+  commentId: M:BTC1.Module.BT25.recursiveFn(System.Int32,System.Int32)
+  id: recursiveFn(System.Int32,System.Int32)
+  parent: BTC1.Module.BT25
+  langs:
+  - csharp
+  - vb
+  name: recursiveFn(int, int)
+  nameWithType: BT25.recursiveFn(int, int)
+  fullName: BTC1.Module.BT25.recursiveFn(int, int)
+  type: Method
+  source:
+    remote:
+      path: src/Module/BT25.cs
+      branch: main
+      repo: git@github.com-baonguyen2310:baonguyen2310/BTC1.git
+    id: recursiveFn
+    path: src/Module/BT25.cs
+    startLine: 26
+  assemblies:
+  - BTC1
+  namespace: BTC1.Module
+  syntax:
+    content: public static int recursiveFn(int n, int current)
+    parameters:
+    - id: n
+      type: System.Int32
+    - id: current
+      type: System.Int32
+    return:
+      type: System.Int32
+    content.vb: Public Shared Function recursiveFn(n As Integer, current As Integer) As Integer
+  overload: BTC1.Module.BT25.recursiveFn*
+  nameWithType.vb: BT25.recursiveFn(Integer, Integer)
+  fullName.vb: BTC1.Module.BT25.recursiveFn(Integer, Integer)
+  name.vb: recursiveFn(Integer, Integer)
+- uid: BTC1.Module.BT25.Run
+  commentId: M:BTC1.Module.BT25.Run
+  id: Run
+  parent: BTC1.Module.BT25
+  langs:
+  - csharp
+  - vb
+  name: Run()
+  nameWithType: BT25.Run()
+  fullName: BTC1.Module.BT25.Run()
+  type: Method
+  source:
+    remote:
+      path: src/Module/BT25.cs
+      branch: main
+      repo: git@github.com-baonguyen2310:baonguyen2310/BTC1.git
+    id: Run
+    path: src/Module/BT25.cs
+    startLine: 40
+  assemblies:
+  - BTC1
+  namespace: BTC1.Module
+  syntax:
+    content: public static void Run()
+    content.vb: Public Shared Sub Run()
+  overload: BTC1.Module.BT25.Run*
+references:
+- uid: BTC1.Module
+  commentId: N:BTC1.Module
+  href: BTC1.html
+  name: BTC1.Module
+  nameWithType: BTC1.Module
+  fullName: BTC1.Module
+  spec.csharp:
+  - uid: BTC1
+    name: BTC1
+    href: BTC1.html
+  - name: .
+  - uid: BTC1.Module
+    name: Module
+    href: BTC1.Module.html
+  spec.vb:
+  - uid: BTC1
+    name: BTC1
+    href: BTC1.html
+  - name: .
+  - uid: BTC1.Module
+    name: Module
+    href: BTC1.Module.html
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: System.Object.Equals(System.Object)
+  commentId: M:System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  name: Equals(object)
+  nameWithType: object.Equals(object)
+  fullName: object.Equals(object)
+  nameWithType.vb: Object.Equals(Object)
+  fullName.vb: Object.Equals(Object)
+  name.vb: Equals(Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  commentId: M:System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  name: Equals(object, object)
+  nameWithType: object.Equals(object, object)
+  fullName: object.Equals(object, object)
+  nameWithType.vb: Object.Equals(Object, Object)
+  fullName.vb: Object.Equals(Object, Object)
+  name.vb: Equals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.GetHashCode
+  commentId: M:System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  name: GetHashCode()
+  nameWithType: object.GetHashCode()
+  fullName: object.GetHashCode()
+  nameWithType.vb: Object.GetHashCode()
+  fullName.vb: Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+- uid: System.Object.GetType
+  commentId: M:System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  name: GetType()
+  nameWithType: object.GetType()
+  fullName: object.GetType()
+  nameWithType.vb: Object.GetType()
+  fullName.vb: Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+- uid: System.Object.MemberwiseClone
+  commentId: M:System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  name: MemberwiseClone()
+  nameWithType: object.MemberwiseClone()
+  fullName: object.MemberwiseClone()
+  nameWithType.vb: Object.MemberwiseClone()
+  fullName.vb: Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  name: ReferenceEquals(object, object)
+  nameWithType: object.ReferenceEquals(object, object)
+  fullName: object.ReferenceEquals(object, object)
+  nameWithType.vb: Object.ReferenceEquals(Object, Object)
+  fullName.vb: Object.ReferenceEquals(Object, Object)
+  name.vb: ReferenceEquals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.ToString
+  commentId: M:System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  name: ToString()
+  nameWithType: object.ToString()
+  fullName: object.ToString()
+  nameWithType.vb: Object.ToString()
+  fullName.vb: Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: BTC1.Module.BT25.printOutput*
+  commentId: Overload:BTC1.Module.BT25.printOutput
+  href: BTC1.Module.BT25.html#BTC1_Module_BT25_printOutput_System_Int32_
+  name: printOutput
+  nameWithType: BT25.printOutput
+  fullName: BTC1.Module.BT25.printOutput
+- uid: System.Int32
+  commentId: T:System.Int32
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.int32
+  name: int
+  nameWithType: int
+  fullName: int
+  nameWithType.vb: Integer
+  fullName.vb: Integer
+  name.vb: Integer
+- uid: BTC1.Module.BT25.recursiveFn*
+  commentId: Overload:BTC1.Module.BT25.recursiveFn
+  href: BTC1.Module.BT25.html#BTC1_Module_BT25_recursiveFn_System_Int32_System_Int32_
+  name: recursiveFn
+  nameWithType: BT25.recursiveFn
+  fullName: BTC1.Module.BT25.recursiveFn
+- uid: BTC1.Module.BT25.Run*
+  commentId: Overload:BTC1.Module.BT25.Run
+  href: BTC1.Module.BT25.html#BTC1_Module_BT25_Run
+  name: Run
+  nameWithType: BT25.Run
+  fullName: BTC1.Module.BT25.Run

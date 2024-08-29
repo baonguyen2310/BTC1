@@ -1,0 +1,37 @@
+name: .NET CI
+
+on:
+  push:
+    branches: 
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Restore dependencies
+      run: dotnet restore src/BTC1.csproj
+
+    - name: Build
+      run: dotnet build src/BTC1.csproj --no-restore
+
+    - name: Test
+      run: |
+        dotnet restore tests/tests.csproj
+        dotnet test tests/tests.csproj --no-build --verbosity normal
+
+    # - name: Publish
+    #   if: github.ref == 'refs/heads/main'
+    #   run: dotnet publish src/YourMainProject/YourMainProject.csproj -c Release -o ./publish
