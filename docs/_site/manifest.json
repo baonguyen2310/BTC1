@@ -1,0 +1,548 @@
+{
+  "source_base_path": "/Users/baonguyen2310/Documents/BT Năm 3/CTDL & GT/BTC1/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT10.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT10V2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT10V2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT11.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT11.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT12.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT12.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT13.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT13.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT14.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT15.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT16.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT17.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT17.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT18.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT18.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT19.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT19.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT20.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT20.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT21.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT21.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT22.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT22.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT23.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT23.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT24.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT24.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT25.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT25.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT26.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT26.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT27.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT27.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT28.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT28.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT29.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT29.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT30.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT30.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT31.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT31.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT32.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT33.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT33.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT34.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT34.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT35.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT35.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT36.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT36.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT37.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT37.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT38.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT38.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT39.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT39.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT40.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT40.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT41.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT41.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT7.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT7.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT8.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.BT9.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.BT9.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BTC1.Module.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BTC1.Module.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/requirements.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/requirements.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/library_system.puml",
+      "output": {
+        "resource": {
+          "relative_path": "images/library_system.puml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/library_system.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/library_system.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

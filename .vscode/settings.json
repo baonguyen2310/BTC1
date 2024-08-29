@@ -1,3 +1,3 @@
 {
-    "dotnet.defaultSolution": "BTC1.sln"
+    "dotnet.defaultSolution": "src/BTC1.sln"
 }
