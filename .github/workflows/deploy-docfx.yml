@@ -5,6 +5,13 @@ on:
     branches:
       - main  # Thay 'main' bằng nhánh chính của bạn nếu khác
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  actions: read
+  pages: write
+  id-token: write
+
+
 jobs:
   build:
     runs-on: ubuntu-latest
