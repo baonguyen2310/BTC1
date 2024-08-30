@@ -47,7 +47,14 @@ namespace BTC1
             // BT38.Run();
             // BT39.Run();
             // BT40.Run();
-            BT41.Run();
+            // BT41.Run();
+            // BT42.Run();
+            // BT43.Run();
+            // BT44.Run();
+            // BT45.Run();
+            // BT46.Run();
+            // BT47.Run();
+            // BT48.Run();
 			
 	        Console.ReadKey();
 	    }
