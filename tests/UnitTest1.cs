@@ -218,4 +218,14 @@ public class UnitTest1
         double result = BT37.recursiveFn(n);
         Assert.True(Math.Abs(output - result) < epsilon);
     }
+
+    [Theory]
+    [InlineData(1, 0.5)]
+    [InlineData(2, 0.6666666666666666)]
+    [InlineData(3, 0.6000000000000001)]
+    public void Test_BT41(int n, double output, double epsilon = 1e-3)
+    {
+        double result = BT41.recursiveFn(n);
+        Assert.True(Math.Abs(output - result) < epsilon);
+    }
 }

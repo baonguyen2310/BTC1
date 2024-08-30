@@ -25,8 +25,8 @@ namespace BTC1.Module
         }
         public static double recursiveFn(int n)
         {
-            if (n == 1) return 1.0/2.0;
-            return Math.Pow(CommonModule.Factorial(n) + recursiveFn(n-1), 1.0 / (n + 1));
+            if (n == 1) return 0.5;
+            return 1/(1 + recursiveFn(n-1));
         }
         public static void Run()
         {
